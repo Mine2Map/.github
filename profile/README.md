@@ -24,8 +24,8 @@ Mine2Map focuses on birds, bats, and fish of Switzerland, and on butterflies, bu
 ### Key objectives
 1. Enhance accessibility to organismal trait data largely trapped in scientific publications, grey literature, and grey datasets through text mining and NLP approaches. 
 2. Develop informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
-3. Investigate how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
-4. Enhance the specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
+3. Investigate how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics.
+4. Enhance the specificity and informativeness of species distribution and richness models by integrating information.
 
 
 ### Team
