@@ -38,6 +38,7 @@ Mine2Map focuses on birds, bats, and fish of Switzerland, and on butterflies, bu
 This Github organisation contains repositories related to the Min2Map project.
 
 Main repositories are:
+* [text-mining](https://github.com/Mine2Map/text-mining)
 * [grey-literature](https://github.com/Mine2Map/grey-literature)
 * [treatments](https://github.com/Mine2Map/treatments)
 * [genomic-workflow](https://github.com/Mine2Map/genomic-workflow)
