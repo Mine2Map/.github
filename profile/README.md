@@ -8,7 +8,7 @@ Mine2Map is an interdisciplinary project combining expertise in:
 * biodiversity genomics
 * text mining
 * natural language processing or NLP
-* biodiversity inforamtics
+* biodiversity informatics
 
 Our goal is to transform how data are used to inform species and habitat protection and restoration. The project focuses on improving species spatiotemporal distribution mapping and taxonomic richness modelling by integrating:
 
