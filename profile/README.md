@@ -32,7 +32,7 @@ This Github organisation contains repositories related to the work of the Min2Ma
 Main repositories are:
 * [grey-literature](https://github.com/Mine2Map/grey-literature)
 * [treatments](https://github.com/Mine2Map/treatments)
-* [genomics-workflow](https://github.com/Mine2Map/genomics-workflow)
+* [genomic-workflow](https://github.com/Mine2Map/genomic-workflow)
 * [sdm](https://github.com/Mine2Map/sdm)
 
 
