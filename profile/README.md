@@ -1,19 +1,47 @@
 ## Welcome to Mine2Map! 👋
 
-Mine2Map is the acronym of a Swiss funded projected entitled [Integrating literature mining of taxonomy and traits with genomics to transform species richness and distribution modelling applied to biodiversity assessments](https://data.snf.ch/grants/grant/10005834). This project received funding from the Swiss National Science Foundation (SNSF) for the period 2026 - 2030. 
+Mine2Map is the acronym of a Swiss-funded projected entitled [Integrating literature mining of taxonomy and traits with genomics to transform species richness and distribution modelling applied to biodiversity assessments](https://data.snf.ch/grants/grant/10005834). This project received funding from the Swiss National Science Foundation (SNSF) for the period 2026 - 2030. 
 
 ---
 
-### What is Mine2Map about?
-Mine2Map is an interdisciplinary project that aims to harness coomplementary expertise from the biodiversity genomics and text mining research domains to transform how data are used to inform species and habitat protection and restoration. The project aims to improve informativeness and specificity of: 
+### What we do?
+Mine2Map is an interdisciplinary project that aims to harness complementary expertise from the biodiversity genomics and text mining research domains to transform how data are used to inform species and habitat protection and restoration. The project aims to improve informativeness and specificity of species spatiotemporal distribution mapping and species taxonomic richness modelling, using organismal traits extracted from the literature with text mining approaches integrated with genomics data analyses.
 
-- species spatiotemporal distribution mapping;
-- species taxonomic richness modelling, using organismal traits extracted from the literature with text mining approaches integrated with genomics data analyses.
+---
 
-The current state-of-the-art sees species distribution modelling striving towards more integrative approaches incorporating complementary information such as species traits and genomic data, but being held back by challenges accessing such data. Dealing with uncertainties in species taxonomic richness and undescribed “dark taxa” also pose challenges. Overcoming these issues must leverage the state-of-the-art in text mining and annotation of biodiversity and taxonomic literature integrated with species and population discrimination analysis from genomics data. In the proposed collaboration with the SDSC we aim to strengthen the professional data science solutions and other open science outputs of the project that together deliver the data and tools needed to achieve the project objectives, thereby helping to achieve a significant change in the way integrative species modelling can be performed in the future, not just in the context of this project but across the field as a whole.
+### Focus groups
+- Birds, bats, and fish of Switzerland
+- Butterflies, bumblebees, and amphipods of Europe
+Why these focus groups? They represent groups of species with different levels of taxonomic resolution (well-defined, cryptic species, hidden dark taxa), a spectrum of variable levels of accumulated knowledge that can be mined from the literature, existing trait-collection efforts of variable comprehensiveness that provide baselines against which to evaluate literature-mining trait-extraction efforts, and for which genomic data are increasingly available for many species within these groups.
+---
 
+### Key objectives
+- Objective 1: Enhance researcher accessibility to organismal trait data currently largely trapped in scientific publications as well as in grey literature and grey datasets.
+⇒ Text mining and natural language processing of biodiversity literature and datasets liberated through digitisation for entity recognition and relationship extraction
 
+- Objective 2: Implement informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
+⇒ Genetic analysis for subsets of species with available DNA barcoding and/or genomics data to quantify population distinctness, cryptic diversity, and hidden dark taxa 
 
+- Objective 3: Determine how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
+⇒ Comparative analyses across taxa of name evolution from taxonomic treatments and trait or genetic similarities/differences that hinder/enhance species discrimination 
+
+- Objective 4: Accomplish enhanced specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
+⇒ Comparisons of baseline models using species occurrence data and environmental variables with results from modelling approaches integrating traits and genetics
+
+---
+
+### Team
+...
+
+---
+
+### Repositories
+...
+
+---
+
+### Contact
+---
 
 
 
