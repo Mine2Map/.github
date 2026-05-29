@@ -10,10 +10,7 @@ Mine2Map is an interdisciplinary project that aims to harness complementary expe
 ---
 
 ### Focus groups
-- Birds, bats, and fish of Switzerland
-- Butterflies, bumblebees, and amphipods of Europe
-
-Why these focus groups? They represent groups of species with different levels of taxonomic resolution (well-defined, cryptic species, hidden dark taxa), a spectrum of variable levels of accumulated knowledge that can be mined from the literature, existing trait-collection efforts of variable comprehensiveness that provide baselines against which to evaluate literature-mining trait-extraction efforts, and for which genomic data are increasingly available for many species within these groups.
+Mine2Map will focus on birds, bats, and fish of Switzerland, and on butterflies, bumblebees, and amphipods of Europe. They represent groups of species with different levels of taxonomic resolution (well-defined, cryptic species, hidden dark taxa), a spectrum of variable levels of accumulated knowledge that can be mined from the literature, existing trait-collection efforts of variable comprehensiveness that provide baselines against which to evaluate literature-mining trait-extraction efforts, and for which genomic data are increasingly available for many species within these groups.
 
 ---
 
