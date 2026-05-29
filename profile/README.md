@@ -18,7 +18,7 @@ Our goal is to transform how data are used to inform species and habitat protect
 
 
 ### Focus groups
-Mine2Map will focus on birds, bats, and fish of Switzerland, and on butterflies, bumblebees, and amphipods of Europe. They represent groups of species with different levels of taxonomic resolution (well-defined, cryptic species, hidden dark taxa), a spectrum of variable levels of accumulated knowledge that can be mined from the literature, existing trait-collection efforts of variable comprehensiveness that provide baselines against which to evaluate literature-mining trait-extraction efforts, and for which genomic data are increasingly available for many species within these groups.
+Mine2Map focuses on birds, bats, and fish of Switzerland, and on butterflies, bumblebees, and amphipods of Europe. They represent groups of species with different levels of taxonomic resolution (well-defined, cryptic species, hidden dark taxa), a spectrum of variable levels of accumulated knowledge that can be mined from the literature, existing trait-collection efforts of variable comprehensiveness that provide baselines against which to evaluate literature-mining trait-extraction efforts, and for which genomic data are increasingly available for many species within these groups.
 
 
 ### Key objectives
