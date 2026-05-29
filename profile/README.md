@@ -15,27 +15,26 @@ Mine2Map will focus on birds, bats, and fish of Switzerland, and on butterflies,
 ---
 
 ### Key objectives
-- Objective 1: Enhance researcher accessibility to organismal trait data currently largely trapped in scientific publications as well as in grey literature and grey datasets.
-⇒ Text mining and natural language processing of biodiversity literature and datasets liberated through digitisation for entity recognition and relationship extraction
-
-- Objective 2: Implement informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
-⇒ Genetic analysis for subsets of species with available DNA barcoding and/or genomics data to quantify population distinctness, cryptic diversity, and hidden dark taxa 
-
-- Objective 3: Determine how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
-⇒ Comparative analyses across taxa of name evolution from taxonomic treatments and trait or genetic similarities/differences that hinder/enhance species discrimination 
-
-- Objective 4: Accomplish enhanced specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
-⇒ Comparisons of baseline models using species occurrence data and environmental variables with results from modelling approaches integrating traits and genetics
+1. Enhance researcher accessibility to organismal trait data currently largely trapped in scientific publications, grey literature, and grey datasets via text mining and natural language processing (NLP). 
+2. Implement informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
+3. Determine how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
+4. Accomplish enhanced specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
 
 ---
 
 ### Team
-...
+SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
+Institute for Artificial Intelli Faculty of Informatics (IDSIA) Università della Svizzera Italiana, Lugano, Switzerland
+Plazi, Switzerland
 
 ---
 
 ### Repositories
-...
+This Github organisation contains repositories related to the work of the Min2Map project.
+
+Main repositories are:
+* XX
+* XX
 
 ---
 
