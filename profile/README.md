@@ -1,10 +1,20 @@
 ## Welcome to Mine2Map! 👋
 
-Mine2Map is the acronym of a Swiss-funded projected entitled [Integrating literature mining of taxonomy and traits with genomics to transform species richness and distribution modelling applied to biodiversity assessments](https://data.snf.ch/grants/grant/10005834). This project received funding from the Swiss National Science Foundation (SNSF) for the period 2026 - 2030. 
+Mine2Map is the acronym of a Swiss-funded projected entitled [Integrating literature mining of taxonomy and traits with genomics to transform species richness and distribution modelling applied to biodiversity assessments](https://data.snf.ch/grants/grant/10005834). The project received funding from the Swiss National Science Foundation (SNSF) for the period 2026 - 2030. 
 
 
-### What we do?
-Mine2Map is an interdisciplinary project that aims to harness complementary expertise from the biodiversity genomics and text mining research domains to transform how data are used to inform species and habitat protection and restoration. The project aims to improve informativeness and specificity of species spatiotemporal distribution mapping and species taxonomic richness modelling, using organismal traits extracted from the literature with text mining approaches integrated with genomics data analyses.
+### What we do
+Mine2Map is an interdisciplinary project combining expertise in:
+* biodiversity genomics
+* text mining
+* natural language processing or NLP
+* biodiversity inforamtics
+
+Our goal is to transform how data are used to inform species and habitat protection and restoration. The project focuses on improving species spatiotemporal distribution mapping and taxonomic richness modelling by integrating:
+
+* organismal traits extracted from scientific literature using text mining approaches
+* genomics-based analyses
+* biodiversity occurrence and distribution data
 
 
 ### Focus groups
@@ -12,22 +22,20 @@ Mine2Map will focus on birds, bats, and fish of Switzerland, and on butterflies,
 
 
 ### Key objectives
-1. Enhance researcher accessibility to organismal trait data currently largely trapped in scientific publications, grey literature, and grey datasets via text mining and natural language processing (NLP). 
-2. Implement informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
-3. Determine how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
-4. Accomplish enhanced specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
+1. Enhance accessibility to organismal trait data largely trapped in scientific publications, grey literature, and grey datasets through text mining and NLP approaches. 
+2. Develop informatics solutions to exploit genomics data for delineating units that discriminate species or populations in a standardised manner.
+3. Investigate how taxonomic name stability across different taxa relates to discriminatory properties of species traits and genetics from Objectives 1 and 2.
+4. Enhance the specificity and informativeness of species distribution and richness models by integrating information from Objectives 1, 2, and 3.
 
 
 ### Team
-SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
-
-Institute for Artificial Intelli Faculty of Informatics (IDSIA) Università della Svizzera Italiana, Lugano, Switzerland
-
-Plazi, Switzerland
+* SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
+* Institute for Artificial Intelli Faculty of Informatics (IDSIA) Università della Svizzera Italiana, Lugano, Switzerland
+* Plazi, Switzerland
 
 
 ### Repositories
-This Github organisation contains repositories related to the work of the Min2Map project.
+This Github organisation contains repositories related to the Min2Map project.
 
 Main repositories are:
 * [grey-literature](https://github.com/Mine2Map/grey-literature)
@@ -35,12 +43,11 @@ Main repositories are:
 * [genomic-workflow](https://github.com/Mine2Map/genomic-workflow)
 * [sdm](https://github.com/Mine2Map/sdm)
 
+### Acknowledgements
+This project is funded by the Swiss National Science Foundation (SNSF) under Grant number 10005834
 
-
-### Contact
----
-
-
+### News
+* [Integrating comprehensive species data into biodiversity assessments ](https://www.sib.swiss/news/integrating-comprehensive-species-data-into-biodiversity-assessments)
 
 <!--
 - 🔧 Configuration
