@@ -1,4 +1,4 @@
-## Welcome to Mine2Map! 👋
+## Welcome to Mine2Map!
 
 Mine2Map is the acronym of a Swiss-funded projected entitled [Integrating literature mining of taxonomy and traits with genomics to transform species richness and distribution modelling applied to biodiversity assessments](https://data.snf.ch/grants/grant/10005834). The project received funding from the Swiss National Science Foundation (SNSF) for the period 2026 - 2030. 
 
