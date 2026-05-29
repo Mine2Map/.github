@@ -30,8 +30,10 @@ Plazi, Switzerland
 This Github organisation contains repositories related to the work of the Min2Map project.
 
 Main repositories are:
-* XX
-* XX
+* grey-literature
+* treatments
+* sdm
+* genomics-workflow
 
 ---
 
